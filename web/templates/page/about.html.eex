@@ -1,0 +1,112 @@
+<div class="main-container">
+  <section class="imageblock about-1" data-sr-id="1" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; transition: transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; ">
+    <div class="imageblock__content col-md-6 col-sm-4 pos-left">
+      <div class="background-image-holder" style="background: url(&quot;/images/inner1.jpg&quot;); opacity: 1;">
+        <img alt="image" src="/images/inner1.jpg">
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 col-md-push-7 col-sm-8 col-sm-push-4">
+          <h4>儒心设计，用心创造美好</h4>
+          <p>
+            我们的团队是设计领域的专家，我们不止提供设计，更有将设计实现的制作服务。活动策划，视频制作也是我们的拿手技术。对于我们来说，将美妙的设计转变成现实是乐在其中的事。帮助客户获得商业上的成就就更是令我们倍感自豪的事。
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+  <section class="imageblock about-1" data-sr-id="2" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; transition: transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; ">
+    <div class="imageblock__content col-md-6 col-sm-4 pos-right">
+      <div class="background-image-holder" style="background: url(&quot;/images/inner2.jpg&quot;); opacity: 1;">
+        <img alt="image" src="/images/inner2.jpg">
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 col-sm-8">
+          <h4>儒心设计，全生命周期服务</h4>
+          <p>
+            儒心设计拥有从策划至设计，再到制作的完整产业链。我们的核心服务是通过科学有效的、国际化的而设计和频偏管理知道，帮助客户构建卓越的品牌体系，协助更多的中国企业塑造国际化的品牌形象，在世界范围内树立属于中国企业的优秀品牌形象和人文风格。
+          </p>
+          <p>
+            我们信仰专业的力量，用优秀的设计帮助客户降低企业运营成本，创造超越竞争对手的品牌竞争力，以深度拓展设计的商业价值，用品牌的力量使客户实现商业目标，用品牌的力量驱动企业的持续发展。
+          </p>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+  <section class="stats-1 bg--secondary" data-sr-id="3" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; transition: transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; ">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <h4>Get to know us better…</h4>
+        </div>
+      </div>
+      <!--end of row-->
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="feature feature-1 text-center boxed boxed--lg">
+            <i class="icon icon--lg icon-Tree-2 color--primary"></i>
+            <h3>2010</h3>
+            <span>
+              <em>Year of foundation</em>
+            </span>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="feature feature-1 text-center boxed boxed--lg">
+            <i class="icon icon--lg icon-Bodybuilding color--primary"></i>
+            <h3>16</h3>
+            <span>
+              <em>Passionate team members</em>
+            </span>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="feature feature-1 text-center boxed boxed--lg">
+            <i class="icon icon--lg icon-Thumbs-UpSmiley color--primary"></i>
+            <h3>Over 500</h3>
+            <span>
+              <em>Satisfied clients</em>
+            </span>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="feature feature-1 text-center boxed boxed--lg">
+            <i class="icon icon--lg icon-Alarm-Clock color--primary"></i>
+            <h3>0</h3>
+            <span>
+              <em>Missed meetings</em>
+            </span>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="feature feature-1 text-center boxed boxed--lg">
+            <i class="icon icon--lg icon-Marker color--primary"></i>
+            <h3>Countless</h3>
+            <span>
+              <em>Sharpies exhausted</em>
+            </span>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="feature feature-1 text-center boxed boxed--lg">
+            <i class="icon icon--lg icon-Rock-andRoll color--primary"></i>
+            <h3>1</h3>
+            <span>
+              <em>Resident DJ</em>
+            </span>
+          </div>
+        </div>
+      </div>
+      <!--end of row-->
+    </div>
+    <!--end of container-->
+  </section>
+
+</div>

@@ -1,0 +1,27 @@
+<div class="nav-container">
+  <nav>
+    <div class="nav-bar" data-fixed-at="700">
+      <div class="nav-module logo-module left">
+        <a href="/"><img alt="logo" class="logo logo-dark" src="/images/rxi-logo-dark.png"> <img alt="logo" class="logo logo-light" src="/images/rxi-logo-dark.png"></a>
+      </div>
+      <div class="nav-module menu-module left">
+        <ul class="menu">
+          <li class="vpe">
+            <a href="/">首页</a>
+          </li>
+          <li>
+            <a href="/page/service">服务</a>
+          </li>
+          <li>
+            <a href="/page/contact">联系我们</a>
+          </li>
+          <li>
+            <a href="/page/about">关于我们</a>
+          </li>
+      </div>
+    </div>
+    <div class="nav-mobile-toggle visible-sm visible-xs">
+      <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+  </nav>
+</div>
