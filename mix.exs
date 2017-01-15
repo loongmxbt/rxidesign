@@ -3,7 +3,7 @@ defmodule RxiDesign.Mixfile do
 
   def project do
     [app: :rxi_design,
-     version: "0.0.1",
+     version: "0.0.#{committed_at}",
      elixir: "~> 1.2",
      elixirc_paths: elixirc_paths(Mix.env),
      compilers: [:phoenix, :gettext] ++ Mix.compilers,
@@ -11,6 +11,10 @@ defmodule RxiDesign.Mixfile do
      start_permanent: Mix.env == :prod,
      aliases: aliases(),
      deps: deps()]
+  end
+
+  def committed_at do
+    System.cmd("git", ~w[log -1 --date=short --pretty=format:%ct]) |> elem(0)
   end
 
   # Configuration for the OTP application.
@@ -37,7 +41,8 @@ defmodule RxiDesign.Mixfile do
      {:phoenix_html, "~> 2.6"},
      {:phoenix_live_reload, "~> 1.0", only: :dev},
      {:gettext, "~> 0.11"},
-     {:cowboy, "~> 1.0"}]
+     {:cowboy, "~> 1.0"},
+     {:distillery, "~> 1.0"}]
   end
 
   # Aliases are shortcuts or tasks specific to the current project.
