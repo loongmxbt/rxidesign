@@ -20,11 +20,6 @@ defmodule RxiDesign.ConnCase do
       # Import conveniences for testing with connections
       use Phoenix.ConnTest
 
-      alias RxiDesign.Repo
-      import Ecto
-      import Ecto.Changeset
-      import Ecto.Query
-
       import RxiDesign.Router.Helpers
 
       # The default endpoint for testing
@@ -33,11 +28,6 @@ defmodule RxiDesign.ConnCase do
   end
 
   setup tags do
-    :ok = Ecto.Adapters.SQL.Sandbox.checkout(RxiDesign.Repo)
-
-    unless tags[:async] do
-      Ecto.Adapters.SQL.Sandbox.mode(RxiDesign.Repo, {:shared, self()})
-    end
 
     {:ok, conn: Phoenix.ConnTest.build_conn()}
   end

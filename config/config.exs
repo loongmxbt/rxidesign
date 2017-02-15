@@ -5,14 +5,10 @@
 # is restricted to this project.
 use Mix.Config
 
-# General application configuration
-config :rxi_design,
-  ecto_repos: [RxiDesign.Repo]
-
 # Configures the endpoint
 config :rxi_design, RxiDesign.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "eAd8K4JcSQE9xiDbPWHwO98++J6TDGCxAzZUcrCfArc7VqW1EHZQAmGeFOPS1+J4",
+  secret_key_base: "+JJz/yJapMBeDXZHLnkOnNvevczFiUEV7igFBxnfITxRGfUbAAG6o0fHETsttp8e",
   render_errors: [view: RxiDesign.ErrorView, accepts: ~w(html json)],
   pubsub: [name: RxiDesign.PubSub,
            adapter: Phoenix.PubSub.PG2]

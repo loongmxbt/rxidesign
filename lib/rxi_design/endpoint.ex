@@ -9,7 +9,7 @@ defmodule RxiDesign.Endpoint do
   # when deploying your static files in production.
   plug Plug.Static,
     at: "/", from: :rxi_design, gzip: false,
-    only: ~w(css fonts images img js favicon.ico robots.txt)
+    only: ~w(css fonts images js favicon.ico robots.txt)
 
   # Code reloading can be explicitly enabled under the
   # :code_reloader configuration of your endpoint.
@@ -36,7 +36,7 @@ defmodule RxiDesign.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_rxi_design_key",
-    signing_salt: "t+iD1R3q"
+    signing_salt: "hpHmZ13P"
 
   plug RxiDesign.Router
 end

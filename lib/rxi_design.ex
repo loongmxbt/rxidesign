@@ -8,8 +8,6 @@ defmodule RxiDesign do
 
     # Define workers and child supervisors to be supervised
     children = [
-      # Start the Ecto repository
-      supervisor(RxiDesign.Repo, []),
       # Start the endpoint when the application starts
       supervisor(RxiDesign.Endpoint, []),
       # Start your own worker by calling: RxiDesign.Worker.start_link(arg1, arg2, arg3)

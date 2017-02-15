@@ -19,8 +19,8 @@
       <div class="row">
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Sidebar-Window"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/包装设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -34,8 +34,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-RGB"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/广告设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -49,8 +49,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Compass-4"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/VI设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -64,8 +64,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Brain"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/吉祥物设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -79,8 +79,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Code-Window"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/网页设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -94,8 +94,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Laptop-Phone"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/海报设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -109,8 +109,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Laptop-Phone"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/画册设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -124,8 +124,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Laptop-Phone"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/活动策划.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -139,8 +139,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Laptop-Phone"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/服装设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -154,8 +154,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Laptop-Phone"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/动画设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -169,8 +169,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Laptop-Phone"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/书籍装帧.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">
@@ -184,8 +184,8 @@
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="card card-1">
-            <div class="card__icon">
-              <i class="icon icon--lg icon-Laptop-Phone"></i>
+            <div class="card__image">
+              <img alt="Pic" src="/images/室内设计.jpg">
             </div>
             <div class="card__body boxed bg--white">
               <div class="card__title">

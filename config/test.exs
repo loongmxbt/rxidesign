@@ -8,12 +8,3 @@ config :rxi_design, RxiDesign.Endpoint,
 
 # Print only warnings and errors during test
 config :logger, level: :warn
-
-# Configure your database
-config :rxi_design, RxiDesign.Repo,
-  adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
-  database: "rxi_design_test",
-  hostname: "localhost",
-  pool: Ecto.Adapters.SQL.Sandbox

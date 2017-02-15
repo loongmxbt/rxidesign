@@ -214,7 +214,7 @@
         <div class="col-sm-4 col-xs-6">
           <div class="hover-element member member-2" data-title-position="center,center">
             <div class="hover-element__initial">
-              <img alt="Pic" src="/img/avatar-team-1.jpg">
+              <img alt="Pic" src="/images/avatar-team-4.jpg">
             </div>
             <div class="hover-element__reveal" data-overlay="9">
               <div class="boxed">
@@ -227,7 +227,7 @@
         <div class="col-sm-4 col-xs-6">
           <div class="hover-element member member-2" data-title-position="center,center">
             <div class="hover-element__initial">
-              <img alt="Pic" src="/img/avatar-team-1.jpg">
+              <img alt="Pic" src="/images/avatar-team-5.jpg">
             </div>
             <div class="hover-element__reveal" data-overlay="9">
               <div class="boxed">
@@ -240,7 +240,7 @@
         <div class="col-sm-4 col-xs-6">
           <div class="hover-element member member-2" data-title-position="center,center">
             <div class="hover-element__initial">
-              <img alt="Pic" src="/img/avatar-team-1.jpg">
+              <img alt="Pic" src="/images/avatar-team-6.jpg">
             </div>
             <div class="hover-element__reveal" data-overlay="9">
               <div class="boxed">

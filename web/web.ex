@@ -18,21 +18,13 @@ defmodule RxiDesign.Web do
 
   def model do
     quote do
-      use Ecto.Schema
-
-      import Ecto
-      import Ecto.Changeset
-      import Ecto.Query
+      # Define common model functionality
     end
   end
 
   def controller do
     quote do
       use Phoenix.Controller
-
-      alias RxiDesign.Repo
-      import Ecto
-      import Ecto.Query
 
       import RxiDesign.Router.Helpers
       import RxiDesign.Gettext
@@ -64,10 +56,6 @@ defmodule RxiDesign.Web do
   def channel do
     quote do
       use Phoenix.Channel
-
-      alias RxiDesign.Repo
-      import Ecto
-      import Ecto.Query
       import RxiDesign.Gettext
     end
   end

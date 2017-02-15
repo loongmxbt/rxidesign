@@ -20,11 +20,6 @@ defmodule RxiDesign.ChannelCase do
       # Import conveniences for testing with channels
       use Phoenix.ChannelTest
 
-      alias RxiDesign.Repo
-      import Ecto
-      import Ecto.Changeset
-      import Ecto.Query
-
 
       # The default endpoint for testing
       @endpoint RxiDesign.Endpoint
@@ -32,11 +27,6 @@ defmodule RxiDesign.ChannelCase do
   end
 
   setup tags do
-    :ok = Ecto.Adapters.SQL.Sandbox.checkout(RxiDesign.Repo)
-
-    unless tags[:async] do
-      Ecto.Adapters.SQL.Sandbox.mode(RxiDesign.Repo, {:shared, self()})
-    end
 
     :ok
   end
