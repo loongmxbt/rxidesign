@@ -3,17 +3,13 @@ defmodule RxiDesign.Mixfile do
 
   def project do
     [app: :rxi_design,
-     version: "0.0.#{committed_at()}",
+     version: "0.0.2",
      elixir: "~> 1.2",
      elixirc_paths: elixirc_paths(Mix.env),
      compilers: [:phoenix, :gettext] ++ Mix.compilers,
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
      deps: deps()]
-  end
-
-  def committed_at do
-    System.cmd("git", ~w[log -1 --date=short --pretty=format:%ct]) |> elem(0)
   end
 
   # Configuration for the OTP application.
