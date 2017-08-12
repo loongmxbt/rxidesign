@@ -6,7 +6,7 @@
     <div class="container pos-vertical-center">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 text-center">
-          <h3>儒心设计 RXI Design</h3>
+          <h3>儒心设计 RUXIN Design</h3>
           <p class="lead">儒心设计的使命很简单，就是想用心创造美好。</p>
         </div>
       </div>
@@ -18,23 +18,65 @@
       <div class="row">
         <div class="col-sm-12 text-center">
           <div class="elements--title">
-            <h4>儒心设计 — 平面设计篇</h4>
+            <h4>儒心设计 — 服务领域</h4>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 col-sm-12">
           <a href="#">
             <div class="card card-7">
               <div class="card__image">
-                <img alt="Pic" src="/images/包装设计.jpg">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s01.jpg">
               </div>
               <div class="card__body boxed bg--white">
                 <div class="card__title">
-                  <h6>Packaging</h6>
+                  <h6>Event Planning</h6>
+                  <h5>活动策划执行</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-4 col-sm-6 col-sm-12">
+          <a href="#">
+            <div class="card card-7">
+              <div class="card__image">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s02.jpg">
+              </div>
+              <div class="card__body boxed bg--white">
+                <div class="card__title">
+                  <h6>Enterprise Culture Promoting</h6>
+                  <h5>企业文化推广</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-4 col-sm-6 col-sm-12">
+          <a href="#">
+            <div class="card card-7">
+              <div class="card__image">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s03.jpg">
+              </div>
+              <div class="card__body boxed bg--white">
+                <div class="card__title">
+                  <h6>Package Design</h6>
                   <h5>包装设计</h5>
                 </div>
-                <div class="card__price">
-                  <span class="type--strikethrough">$999.99</span>
-                  <span>$699.99</span>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-sm-12">
+          <a href="#">
+            <div class="card card-7">
+              <div class="card__image">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s04.jpg">
+              </div>
+              <div class="card__body boxed bg--white">
+                <div class="card__title">
+                  <h6>Book Design</h6>
+                  <h5>书籍装帧设计</h5>
                 </div>
               </div>
             </div>
@@ -44,35 +86,13 @@
           <a href="#">
             <div class="card card-7">
               <div class="card__image">
-                <img alt="Pic" src="/images/服装图案设计.jpg">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s05.jpg">
               </div>
               <div class="card__body boxed bg--white">
                 <div class="card__title">
-                  <h6>Clothing</h6>
-                  <h5>服装设计</h5>
-                </div>
-                <div class="card__price">
-                  <span class="type--strikethrough">$199.00</span>
-                  <span>$99.99</span>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 col-sm-12">
-          <a href="#">
-            <div class="card card-7">
-              <div class="card__image">
-                <img alt="Pic" src="/images/广告设计.jpg">
-              </div>
-              <div class="card__body boxed bg--white">
-                <div class="card__title">
-                  <h6>Advertisement</h6>
+                  <h6>Advertisement Design</h6>
                   <h5>广告设计</h5>
                 </div>
-                <div class="card__price">
-                  <span>$699.99</span>
-                </div>
               </div>
             </div>
           </a>
@@ -81,57 +101,116 @@
           <a href="#">
             <div class="card card-7">
               <div class="card__image">
-                <img alt="Pic" src="/images/VI设计.jpg">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s06.jpg">
               </div>
               <div class="card__body boxed bg--white">
                 <div class="card__title">
-                  <h6>Visual Identity</h6>
+                  <h6>VI Design</h6>
                   <h5>VI设计</h5>
                 </div>
-                <div class="card__price">
-                  <span>$399.99</span>
-                </div>
               </div>
             </div>
           </a>
         </div>
+      
         <div class="col-md-4 col-sm-6 col-sm-12">
           <a href="#">
             <div class="card card-7">
               <div class="card__image">
-                <img alt="Pic" src="/images/吉祥物设计.jpg">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s07.jpg">
               </div>
               <div class="card__body boxed bg--white">
                 <div class="card__title">
-                  <h6>Mascot</h6>
+                  <h6>Mascot Design</h6>
                   <h5>吉祥物设计</h5>
                 </div>
-                <div class="card__price">
-                  <span>$129.99</span>
-                </div>
               </div>
             </div>
           </a>
         </div>
+
         <div class="col-md-4 col-sm-6 col-sm-12">
           <a href="#">
             <div class="card card-7">
               <div class="card__image">
-                <img alt="Pic" src="/images/动画设计.jpg">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s08.jpg">
               </div>
               <div class="card__body boxed bg--white">
                 <div class="card__title">
-                  <h6>Animation</h6>
-                  <h5>动画设计</h5>
-                </div>
-                <div class="card__price">
-                  <span>$399.99</span>
+                  <h6>Web Design</h6>
+                  <h5>网页设计</h5>
                 </div>
               </div>
             </div>
           </a>
         </div>
-      </div>
+
+        <div class="col-md-4 col-sm-6 col-sm-12">
+          <a href="#">
+            <div class="card card-7">
+              <div class="card__image">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s09.jpg">
+              </div>
+              <div class="card__body boxed bg--white">
+                <div class="card__title">
+                  <h6>Brochure Design</h6>
+                  <h5>画册设计</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-sm-12">
+          <a href="#">
+            <div class="card card-7">
+              <div class="card__image">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s10.jpg">
+              </div>
+              <div class="card__body boxed bg--white">
+                <div class="card__title">
+                  <h6>Clothing Pattern Design</h6>
+                  <h5>服装图案设计</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-sm-12">
+          <a href="#">
+            <div class="card card-7">
+              <div class="card__image">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s11.jpg">
+              </div>
+              <div class="card__body boxed bg--white">
+                <div class="card__title">
+                  <h6>Animation Design</h6>
+                  <h5>动画设计</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-sm-12">
+          <a href="#">
+            <div class="card card-7">
+              <div class="card__image">
+                <img alt="Pic" src="http://oukas392n.bkt.clouddn.com/s12.jpg">
+              </div>
+              <div class="card__body boxed bg--white">
+                <div class="card__title">
+                  <h6>Video Production</h6>
+                  <h5>视频制作</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+
+      </div><!--end row-->
     </div>
   </section>
 
@@ -140,66 +219,10 @@
       <div class="row">
         <div class="col-sm-12 text-center">
           <div class="elements--title">
-            <h4>儒心设计 — 室内设计篇</h4>
+            <h4>儒心设计 — 合作伙伴</h4>
           </div>
         </div>
-        <div class="col-md-4 col-sm-6 col-sm-12">
-          <a href="#">
-            <div class="card card-7">
-              <div class="card__image">
-                <img alt="Pic" src="/images/别墅设计.jpg">
-              </div>
-              <div class="card__body boxed bg--white">
-                <div class="card__title">
-                  <h6>Villa</h6>
-                  <h5>别墅设计</h5>
-                </div>
-                <div class="card__price">
-                  <span class="type--strikethrough">$129.99</span>
-                  <span>$1999.99</span>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 col-sm-12">
-          <a href="#">
-            <div class="card card-7">
-              <div class="card__image">
-                <img alt="Pic" src="/images/工装设计.jpg">
-              </div>
-              <div class="card__body boxed bg--white">
-                <div class="card__title">
-                  <h6>Fixture</h6>
-                  <h5>工装设计</h5>
-                </div>
-                <div class="card__price">
-                  <span class="type--strikethrough">$99.00</span>
-                  <span>$1999.99</span>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-md-4 col-sm-6 col-sm-12">
-          <a href="#">
-            <div class="card card-7">
-              <div class="card__image">
-                <img alt="Pic" src="/images/家装设计.jpg">
-              </div>
-              <div class="card__body boxed bg--white">
-                <div class="card__title">
-                  <h6>Home</h6>
-                  <h5>家装设计</h5>
-                </div>
-                <div class="card__price">
-                  <span>$999.99</span>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
+        <img src="http://oukas392n.bkt.clouddn.com/partners.jpg" alt="">
     </div>
   </section>
 

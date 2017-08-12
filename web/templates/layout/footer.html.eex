@@ -4,12 +4,20 @@
           <div class="col-md-3 col-sm-4">
               <a href="#"><img alt="儒心设计" class="logo" src="/images/rxi-logo-light.png"></a>
               <p>儒心设计的使命很简单，就是想用心创造美好。</p>
+              <ul style="line-height: 1.85em; color: ">
+                <li>北京市·昌平区·珠江摩尔大厦5号楼</li>
+                <li>(+86)&nbsp;010-61702130</li>
+                <li>ruxindesign@163.com</li>
+              </ul>
           </div>
-          <div class="col-md-5 col-sm-8">
-              <h6>Navigate</h6>
+          <div class="col-md-4 col-md-offset-1 col-sm-8">
+              <h5>导航 Navigate</h5>
               <ul class="footer__navigation">
                   <li class="vpe">
                       <a href="/page/about"><span>关于我们</span></a>
+                  </li>
+                  <li class="vpe">
+                      <a href="/page/case"><span>经典案例</span></a>
                   </li>
                   <li class="vpe">
                       <a href="/page/service"><span>服务列表</span></a>
@@ -20,18 +28,21 @@
               </ul>
               <ul class="footer__navigation">
                   <li class="vpe">
-                      <a href="#"><span>Partner</span></a>
+                      <a href="#"><span>ABOUT US</span></a>
                   </li>
                   <li class="vpe">
-                      <a href="#"><span>Careers</span></a>
+                      <a href="#"><span>CASE STUDY</span></a>
                   </li>
                   <li class="vpe">
-                      <a href="#"><span>Terms of Service</span></a>
+                      <a href="#"><span>SERVICE LIST</span></a>
+                  </li>
+                  <li class="vpe">
+                      <a href="/page/contact"><span>CONTACT US</span></a>
                   </li>
               </ul>
           </div>
           <div class="col-md-4 col-sm-12">
-              <h6>联系我们</h6>
+              <h5>联系我们</h5>
               <p>立即联系儒心设计！</p>
               <form class="form--merge form--no-labels form--active" action="http://mrareco.createsend.com/t/d/s/kieth/?callback=?" method="post" id="subForm" data-error="Please fill all fields correctly." data-success="Thanks for signing up! Please check your inbox for confirmation email." novalidate="novalidate">
                 <br>
@@ -44,26 +55,11 @@
           <div class="col-sm-12">
               <hr>
           </div>
-          <div class="col-sm-6">
-              <span class="type--fine-print">© Copyright <span class="update-year">2017</span> 儒心设计 - All Rights
-              Reserved. RXiDesign.com <a href="http://www.miitbeian.gov.cn/">沪ICP备16046497号</a></span>
+          <div class="col-sm-12">
+              <span class="type--fine-print">© Copyright <span class="update-year">2017</span> 北京兴天悦达科技有限责任公司 - All Rights
+              Reserved. RXiDesign.com <a href="http://www.miitbeian.gov.cn/">京ICP备16046497号</a></span>
           </div>
-          <div class="col-sm-6 text-right text-center-xs">
-              <ul class="social-list">
-                  <li class="vpe">
-                      <a href="#"><i class="socicon-twitter"></i></a>
-                  </li>
-                  <li class="vpe">
-                      <a href="#"><i class="socicon-dribbble"></i></a>
-                  </li>
-                  <li class="vpe">
-                      <a href="#"><i class="socicon-vimeo"></i></a>
-                  </li>
-                  <li class="vpe">
-                      <a href="#"><i class="socicon-instagram"></i></a>
-                  </li>
-              </ul>
-          </div>
+          
       </div>
   </div>
 </footer>

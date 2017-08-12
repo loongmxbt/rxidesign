@@ -3741,6 +3741,9 @@ p[class*='col-'] {
 form div[class*='col-'] > input {
   width: 100%;
 }
+form div[class*='col-'] > select {
+  width: 100%;
+}
 form div[class*='col-'] > button[type="submit"] {
   width: 100%;
 }
@@ -3808,6 +3811,11 @@ input[type="tel"] {
   -webkit-transition: 0.2s linear;
   -moz-transition: 0.2s linear;
   color: #767676;
+  padding-left: 1.625em;
+  padding-right: 1.625em;
+  height: 52px;
+}
+select {
   padding-left: 1.625em;
   padding-right: 1.625em;
   height: 52px;
@@ -3938,6 +3946,9 @@ label {
   margin-left: 2.6em;
 }
 label + input {
+  margin-top: 0.8125em;
+}
+label + select {
   margin-top: 0.8125em;
 }
 button {
@@ -7672,6 +7683,9 @@ section[class*='elements-'] hr + .row {
   }
 }
 .elements-forms form input {
+  margin-bottom: 1.625em;
+}
+.elements-forms form select {
   margin-bottom: 1.625em;
 }
 .elements-forms form > .row {

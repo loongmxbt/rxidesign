@@ -8,6 +8,7 @@ defmodule RxiDesign.PageController do
   def show(conn, %{"slug" => slug}) do
     case slug do
       "case" -> render conn, "case.html"
+      "price" -> render conn, "price.html"
       "about" -> render conn, "about.html"
       "service" -> render conn, "service.html"
       "contact" -> render conn, "contact.html"

@@ -1,0 +1,143 @@
+<div class="main-container">
+  <section class="height-30 bg--dark imagebg page-title page-title--animate parallax" data-overlay="8">
+    <div class="background-image-holder" style="transform: translate3d(0px, 0px, 0px); background: url(&quot;/images/hero1.jpg&quot;); opacity: 1; top: 0px;">
+      <img alt="image" src="/images/hero1.jpg">
+    </div>
+    <div class="container pos-vertical-center">
+      <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 text-center">
+          <h3>儒心设计 服务报价</h3>
+          <p class="lead">儒心设计的报价。</p>
+        </div>
+      </div>
+      <!--end row-->
+    </div>
+    <!--end container-->
+  </section>
+
+
+  <section class="elements-forms">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+          <div class="elements--title">
+              <h4>选择服务</h4>
+          </div>
+      </div>
+      <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 text-center">
+        <form method="post">
+          <div class="col-sm-2">
+            <div class="input-radio checked">
+              <div class="inner"></div>
+              <input type="radio">
+            </div>
+            <label>数码画册</label>
+          </div>
+          <div class="col-sm-2">
+            <div class="input-radio">
+                <div class="inner"></div>
+                <input type="radio">
+            </div>
+            <label>专版画册</label>
+          </div>
+          <div class="col-sm-2">
+            <div class="input-radio">
+              <div class="inner"></div>
+              <input type="radio">
+            </div>
+            <label>专版画册</label>
+          </div>
+          <div class="col-sm-2">
+            <div class="input-radio">
+              <div class="inner"></div>
+              <input type="radio">
+            </div>
+            <label>专版画册</label>
+          </div>
+          <div class="col-sm-2">
+            <div class="input-radio">
+              <div class="inner"></div>
+              <input type="radio">
+            </div>
+            <label>专版画册</label>
+          </div>
+          <div class="col-sm-2">
+            <div class="input-radio">
+              <div class="inner"></div>
+              <input type="radio">
+            </div>
+            <label>专版画册</label>
+          </div>
+        </form>
+      </div>
+    </div> <!-- end row -->
+
+
+
+    <div class="row">
+      <div class="col-sm-12 text-center">
+          <div class="elements--title">
+              <h4>数码画册 100 份 总费用 300 元</h4>
+          </div>
+      </div>
+      <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0">
+          <form method="post">
+              <div class="row">
+                  <div class="col-sm-6">
+                      <label>尺寸:</label>
+                      <select name="size" id="size">
+                        <option value="big64">大64开竖100*140</option>
+                        <option value="big48">大48开竖90*210</option>
+                        <option value="big32">大32开竖140*210</option>
+                        <option value="big16">大16开竖210*285</option>
+                        <option value="mid24">正24开竖185*260</option>
+                        <option value="mid16">正16开竖160*180</option>
+                        <option value="mid12">正12开竖185*260</option>
+                      </select>
+                  </div>
+                  <div class="col-sm-6">
+                      <label>封面覆膜:</label>
+                      <select name="membrane" id="membrane">
+                        <option value="light">单面亮膜</option>
+                        <option value="dark">单面亚膜</option>
+                      </select>
+                  </div>
+                  <div class="col-sm-6">
+                      <label>封面材料:</label>
+                      <select name="covermaterial" id="covermaterial">
+                        <option value="80color">80克彩色道林双胶纸</option>
+                        <option value="80black">80克单黑道林双胶纸</option>
+                      </select>
+                  </div>
+                  <div class="col-sm-6">
+                      <label>内页材料:</label>
+                      <select name="innermaterial" id="innermaterial">
+                        <option value="80color">80克彩色道林双胶纸</option>
+                        <option value="80color">80克彩色道林双胶纸</option>
+                        <option value="80color">80克彩色道林双胶纸</option>
+                      </select>
+                  </div>
+                  <div class="col-sm-6">
+                      <label>页数:</label>
+                      <input type="text" name="pages" placeholder="含封面总页数">
+                  </div>
+                  <div class="col-sm-6">
+                      <label>份数:</label>
+                      <input type="text" name="numbers" placeholder="总份数">
+                  </div>
+              </div>
+              <div class="col-sm-4 col-sm-offset-4">
+                  <button class="btn btn--primary" type="submit">计算报价</button>
+              </div>
+          </form>
+      </div>
+  </div> <!--end row-->
+
+  </section>
+
+</div>
+
+<script>
+
+
+</script>
+

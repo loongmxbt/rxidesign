@@ -3,41 +3,13 @@ exports.config = {
   files: {
     javascripts: {
       joinTo: {
-        "js/app.js": /^(web\/static\/js)|(node_modules)/,
-        "js/ex_admin_common.js": ["web/static/vendor/ex_admin_common.js"],
-        "js/admin_lte2.js": ["web/static/vendor/admin_lte2.js"],
-        "js/jquery.min.js": ["web/static/vendor/jquery.min.js"],
-      },
-      order: {
-        before: [
-          "web/static/js/jquery-2.1.4.min.js",
-          "web/static/js/isotope.min.js",
-          "web/static/js/ytplayer.min.js",
-          "web/static/js/owl.carousel.min.js",
-          "web/static/js/lightbox.min.js",
-          "web/static/js/smooth-scroll.min.js",
-          "web/static/js/scrollreveal.min.js",
-          "web/static/js/parallax.js",
-          "web/static/js/scripts.js"
-        ]
+        "js/app.js": /^(web\/static\/js)|(node_modules)/
       }
     },
 
     stylesheets: {
       joinTo: {
-        "css/app.css": /^(web\/static\/css)/,
-        "css/admin_lte2.css": ["web/static/vendor/admin_lte2.css"],
-        "css/active_admin.css.css": ["web/static/vendor/active_admin.css.css"]
-      },
-      order: {
-        before: [
-          "web/static/css/bootstrap.css",
-          "web/static/css/socicon.css",
-          "web/static/css/iconsmind.css",
-          "web/static/css/interface-icons.css",
-          "web/static/css/lightbox.min.css"
-        ],
-        after: ["web/static/css/theme.css"]
+        "css/app.css": /^(web\/static\/css)/
       }
     },
     templates: {

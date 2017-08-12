@@ -1,0 +1,41 @@
+<div class="row">
+  <div class="col-sm-12 text-center">
+      <div class="elements--title">
+          <h4>不干胶 100 份 总费用 300 元</h4>
+      </div>
+  </div>
+  <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0">
+    <form method="post">
+      <div class="row">
+        <div class="col-sm-6">
+          <label>材料:</label>
+          <select name="material" id="material">
+            <option value="big64">普通</option>
+            <option value="big48">加胶</option>
+          </select>
+        </div>
+        <div class="col-sm-6">
+          <label>工艺:</label>
+          <select name="membrane" id="membrane">
+            <option value="light">直角切成品</option>
+            <option value="dark">圆方形模切</option>
+            <option value="dark">异形模切</option>
+            <option value="dark">覆亮膜</option>
+            <option value="dark">覆亚膜</option>
+          </select>
+        </div>
+        <div class="col-sm-6">
+          <label>尺寸:</label>
+          <input type="text" name="size" placeholder="尺寸">
+        </div>
+        <div class="col-sm-6">
+          <label>数量:</label>
+          <input type="text" name="numbers" placeholder="总份数">
+        </div>
+      </div>
+      <div class="col-sm-4 col-sm-offset-4">
+        <button class="btn btn--primary" type="submit">计算报价</button>
+      </div>
+    </form>
+  </div>
+</div> <!--end row-->
