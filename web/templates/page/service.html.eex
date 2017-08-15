@@ -14,193 +14,20 @@
     </div>
     <!--end container-->
   </section>
-  <section class="section--overlap" data-sr-id="1" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; transition: transform 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s, opacity 1s cubic-bezier( 0.6, 0.2, 0.1, 1 ) 0s; ">
+
+  <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/包装设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>包装设计</h5>
-              </div>
-              <p>
-                包装是品牌理念、产品特性消费心理的综合反映，它直接影响到消费者的购买欲，我们一直站在背后运用智慧科学与艺术的设计去支持客户。
-              </p>
-            </div>
+        <div class="col-sm-12 text-center">
+          <div class="elements--title">
+            <h4>儒心设计 — 服务理念</h4>
           </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/广告设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>广告设计</h5>
-              </div>
-              <p>
-                广告设计的主要特征是对图象、文字、色彩、版面、图形等表达广告的元素，在计算机上实现表达广告的目的和意图。儒心设计在广告设计方面有着深刻的造诣。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/VI设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>VI设计</h5>
-              </div>
-              <p>
-                一流的VI设计通过标志造型、色彩定位、标志的外延含义、应用、品牌气质传递等要素助推品牌成长，帮助品牌战略落地，累积品牌资产。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/吉祥物设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>吉祥物设计</h5>
-              </div>
-              <p>
-                品牌吉祥物是品牌的图腾，是品牌的化身、象征。从大开脑洞的设计，到精美的制作阶段，儒心设计会一一做到极致。为您呈现完美。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/网页设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>网页设计</h5>
-              </div>
-              <p>
-                网页设计作为企业对外宣传物料的其中一种，对于提升企业的互联网品牌形象至关重要。儒心设计有信心为您提供优秀的设计和独具匠心的创意。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/海报设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>海报设计</h5>
-              </div>
-              <p>
-                海报按其应用不同大致可以分为商业海报、文化海报、电影海报人文社科、游戏海报、创意海报和公益海报等。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/画册设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>画册设计</h5>
-              </div>
-              <p>
-                三折页和画册是企业对外宣传的重要途径，一个优秀的设计能够很快的抓住消费者的眼球，起到宣传的作用。儒心设计是这方面的专家，交给我们，即为完美。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/活动策划.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>活动策划及物料设计</h5>
-              </div>
-              <p>
-                儒心设计有幸承接全国大众创业万众创新活动周——团中央展区（深圳主会场），全国大众创业万众创新活动周——中国青年创新创业论坛（北京会场）的整体设计。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/服装设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>服装图案设计</h5>
-              </div>
-              <p>
-                我们不只提供设计，而且还是团体服装定制工厂，基于设计来提供最优的T恤衫、经典polo衫、毛衫、时尚棒球服、帆布袋、篮球服、帽子、工服、马甲等的定制服务。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/动画设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>动画设计</h5>
-              </div>
-              <p>
-                动画是一种集合绘画、漫画、电影、数字媒体、摄影、音乐、文学等众多艺术门类于一身的艺术表现形式。儒心设计拥有专业的动画制作团队，丰富的动画制作经验。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/书籍装帧.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>书籍装帧</h5>
-              </div>
-              <p>
-                书籍装帧一般包括选择纸张、封面材料确定开本、字体、字号设计版式，决定装订方法以及印刷和制作方法等。儒心设计拥有丰富的书籍装帧经验，为您提供独具匠心的书籍设计。
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <div class="card card-1">
-            <div class="card__image">
-              <img alt="Pic" src="/images/室内设计.jpg">
-            </div>
-            <div class="card__body boxed bg--white">
-              <div class="card__title">
-                <h5>室内设计</h5>
-              </div>
-              <p>
-                室内设计是根据建筑物的使用性质、所处环境和相应标准，运用物质技术手段和建筑设计原理，创造功能合理、舒适优美、满足人们物质和精神生活需要的室内环境。
-              </p>
-            </div>
-          </div>
+          <img src="http://oukas392n.bkt.clouddn.com/service-concept.jpg" alt="">
+          <img src="http://oukas392n.bkt.clouddn.com/service-process.jpg" alt="">
         </div>
       </div>
-      <!--end of row-->
     </div>
-    <!--end of container-->
   </section>
+  
 
   </div>
