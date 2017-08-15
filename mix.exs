@@ -3,7 +3,7 @@ defmodule RxiDesign.Mixfile do
 
   def project do
     [app: :rxi_design,
-     version: "0.0.4",
+     version: "0.1.0",
      elixir: "~> 1.2",
      elixirc_paths: elixirc_paths(Mix.env),
      compilers: [:phoenix, :gettext] ++ Mix.compilers,
