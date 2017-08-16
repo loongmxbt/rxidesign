@@ -18,6 +18,8 @@ defmodule RxiDesign.Router do
 
     get "/", PageController, :index
     get "/page/:slug", PageController, :show
+    get "/case/:slug", CaseController, :show
+    get "/price/:slug", PriceController, :show
   end
 
   # Other scopes may use custom stacks.

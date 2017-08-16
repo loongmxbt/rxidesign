@@ -1,0 +1,94 @@
+<div class="row">
+  <div class="col-sm-12 text-center">
+    <div class="elements--title">
+      <h4>选择服务</h4>
+    </div>
+  </div>
+  <div class="col-sm-12 text-center">
+    <ul class="tag-cloud">
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/buganjiao">
+          <span class="btn__text">
+            不干胶
+          </span>
+        </a>
+      </li>
+
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/biaoqian">
+          <span class="btn__text">
+            标签
+          </span>
+        </a>
+      </li>
+
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/mingpian">
+          <span class="btn__text">
+            名片
+          </span>
+        </a>
+      </li>
+
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/pvcbiaozhunka">
+          <span class="btn__text">
+            PVC标准卡
+          </span>
+        </a>
+      </li>
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/pvcyixingka">
+          <span class="btn__text">
+            PVC异形卡
+          </span>
+        </a>
+      </li>
+      
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/wutanliandan">
+          <span class="btn__text">
+            无碳联单
+          </span>
+        </a>
+      </li>
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/zhuanbandanye">
+          <span class="btn__text">
+            专版单页
+          </span>
+        </a>
+      </li>
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/zhuanbanhuace">
+          <span class="btn__text">
+            专版画册
+          </span>
+        </a>
+      </li>
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/hebandanye">
+          <span class="btn__text">
+            合版单页
+          </span>
+        </a>
+      </li>
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/shumadanye">
+          <span class="btn__text">
+            数码单页
+          </span>
+        </a>
+      </li>
+      <li>
+        <a class="btn btn--sm btn--square" href="/price/shumahuace">
+          <span class="btn__text">
+            数码画册
+          </span>
+        </a>
+      </li>
+
+    </ul>
+  </div><!--end col-sm-12-->
+
+    </div> <!-- end row -->

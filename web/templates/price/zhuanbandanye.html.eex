@@ -6,7 +6,7 @@
     <div class="row" id="shumahuace">
       <div class="col-sm-12 text-center">
           <div class="elements--title">
-              <h4>不干胶 {{numbers}} 份 总费用 {{price}} 元</h4>
+              <h4>专版单页 {{numbers}} 份 总费用 {{price}} 元</h4>
           </div>
       </div>
       <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0">

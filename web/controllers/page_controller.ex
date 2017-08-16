@@ -12,6 +12,7 @@ defmodule RxiDesign.PageController do
       "about" -> render conn, "about.html"
       "service" -> render conn, "service.html"
       "contact" -> render conn, "contact.html"
+
       _ -> render conn, RxiDesign.ErrorView, "404.html"
     end
   end
