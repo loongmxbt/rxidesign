@@ -4,7 +4,7 @@ defmodule RxiDesign.CaseController do
   def show(conn, %{"slug" => slug}) do
     case slug do
       "chuangqingchun" -> render conn, "chuangqingchun.html"
-      "beijingda" -> render conn, "beijianda.html"
+      "beijianda" -> render conn, "beijianda.html"
       "youeryuan" -> render conn, "youeryuan.html"
       "fuhuitong" -> render conn, "fuhuitong.html"
       "shuangchuang" -> render conn, "shuangchuang.html"

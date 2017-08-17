@@ -2,14 +2,32 @@
 
   <section>
     <div class="row">
-      <div class="col-sm-12 text-center">
-          <div class="elements--title">
-              <h4>创青春案例展示</h4>
-          </div>
-      </div>
-      <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 text-center">
+
+      <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0">
+        <h3>创青春案例展示</h3>
         <p>活动策划方案是公司或企业在短期内提高销售额，提高市场占有率的有效行为，如果是一份创意突出，而且具有良好的可执行性和可操作性的活动策划案，无论对于企业的知名度，还是对于品牌活动策划过程的美誉度，都将起到积极的提高作用。</p>
-        
+        <img src="http://oukas392n.bkt.clouddn.com/cqc1.jpg" alt="">
+        <hr>
+
+        <h4>DISPLAY BOARD 展板</h4>
+        <p>北京创青春创未来教育科技有限公司—中国青年创新创业板启动仪式暨中国青年创新创业论坛。</p>
+        <img src="http://oukas392n.bkt.clouddn.com/cqc2.jpg" alt="">
+        <hr>
+
+        <h4>DISPLAY BOARD 展板</h4>
+        <p>中国青年创新创业论坛活动举办，旨在鼓励一批勇于创新创业的青年团体或个人。</p>
+        <img src="http://oukas392n.bkt.clouddn.com/cqc3.jpg" alt="">
+        <hr>
+
+        <h4>DISPLAY BOARD 展板</h4>
+        <p>设计上我们不管从形式或者颜色上都采用活泼向上的感觉。</p>
+        <img src="http://oukas392n.bkt.clouddn.com/cqc4.jpg" alt="">
+        <hr>
+
+        <h4>DISPLAY BOARD 展板</h4>
+        <p>将青年的激情活力充分表现出来，同时蓝色的主色调搭配绚丽的光感效果，营造出未来的绚丽多彩。</p>
+        <img src="http://oukas392n.bkt.clouddn.com/cqc5.jpg" alt="">
+
       </div>
     </div> <!-- end row -->
 
