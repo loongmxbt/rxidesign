@@ -44,7 +44,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 text-center">
-          <h4>Get to know us better…</h4>
+          <h4>更深入的了解我们……</h4>
         </div>
       </div>
       <!--end of row-->
@@ -54,7 +54,7 @@
             <i class="icon icon--lg icon-Tree-2 color--primary"></i>
             <h3>2010</h3>
             <span>
-              <em>Year of foundation</em>
+              <em>成立时间</em>
             </span>
           </div>
         </div>
@@ -63,16 +63,16 @@
             <i class="icon icon--lg icon-Bodybuilding color--primary"></i>
             <h3>16</h3>
             <span>
-              <em>Passionate team members</em>
+              <em>团队成员</em>
             </span>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="feature feature-1 text-center boxed boxed--lg">
             <i class="icon icon--lg icon-Thumbs-UpSmiley color--primary"></i>
-            <h3>Over 500</h3>
+            <h3>超过 500</h3>
             <span>
-              <em>Satisfied clients</em>
+              <em>服务的客户</em>
             </span>
           </div>
         </div>
@@ -81,25 +81,25 @@
             <i class="icon icon--lg icon-Alarm-Clock color--primary"></i>
             <h3>0</h3>
             <span>
-              <em>Missed meetings</em>
+              <em>从未缺席</em>
             </span>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="feature feature-1 text-center boxed boxed--lg">
             <i class="icon icon--lg icon-Marker color--primary"></i>
-            <h3>Countless</h3>
+            <h3>100%</h3>
             <span>
-              <em>Sharpies exhausted</em>
+              <em>满意度</em>
             </span>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="feature feature-1 text-center boxed boxed--lg">
             <i class="icon icon--lg icon-Rock-andRoll color--primary"></i>
-            <h3>1</h3>
+            <h3>3</h3>
             <span>
-              <em>Resident DJ</em>
+              <em>合伙人</em>
             </span>
           </div>
         </div>

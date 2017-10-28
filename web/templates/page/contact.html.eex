@@ -35,7 +35,7 @@
       <h4>在线联系</h4>
       <p>
         Email:
-        <a href="#">contact@rxidesign.com</a>
+        <a href="#">zhengyaxing@xtyda.com</a>
         <br> Wechat:
         <a href="#">@rxidesign</a>
       </p>
@@ -64,7 +64,7 @@
             </div>
             <div class="col-sm-12">
               <button type="submit" class="btn btn--primary">
-                Submit Form
+                提交
               </button>
             </div>
           </form>

@@ -5,9 +5,9 @@
               <a href="#"><img alt="儒心设计" class="logo" src="/images/rxi-logo-light.png"></a>
               <p>儒心设计的使命很简单，就是想用心创造美好。</p>
               <ul style="line-height: 1.85em; color: ">
-                <li>北京市·昌平区·珠江摩尔大厦5号楼</li>
+                <li>北京市·昌平区·北清路2号园墅43-03</li>
                 <li>(+86)&nbsp;010-61702130</li>
-                <li>ruxindesign@163.com</li>
+                <li>rxidesign@xtyda.com</li>
               </ul>
           </div>
           <div class="col-md-4 col-md-offset-1 col-sm-8">
@@ -28,13 +28,13 @@
               </ul>
               <ul class="footer__navigation">
                   <li class="vpe">
-                      <a href="#"><span>ABOUT US</span></a>
+                      <a href="/page/about"><span>ABOUT US</span></a>
                   </li>
                   <li class="vpe">
-                      <a href="#"><span>CASE STUDY</span></a>
+                      <a href="/page/case"><span>CASE STUDY</span></a>
                   </li>
                   <li class="vpe">
-                      <a href="#"><span>SERVICE LIST</span></a>
+                      <a href="/page/service"><span>SERVICE LIST</span></a>
                   </li>
                   <li class="vpe">
                       <a href="/page/contact"><span>CONTACT US</span></a>
